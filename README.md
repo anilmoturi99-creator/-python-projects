@@ -40,6 +40,22 @@ A command-line number guessing game built using Python.
 - Secret number reveal on game over
 - Clean loop-based game structure
 
+###  Day 14 – Higher Lower Game
+
+A command-line Python game inspired by the Higher Lower social media challenge.
+
+Features:
+- Random account comparison
+- Score tracking
+- Continuous gameplay
+- ASCII art interface
+
+Concepts practiced:
+- Lists & dictionaries
+- Random module
+- Functions
+- Game logic
+ 
 ## Tech Used
 - Python
 - PyCharm
